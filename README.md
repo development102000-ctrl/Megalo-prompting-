@@ -1,5 +1,5 @@
 # Megalo-prompting-
-I mean you can use the deep research function within notebookLM to search the web or your own Google drive for a specific request to build knowledge on a topic question or issue.
+You can use the deep research function within notebookLM to search the web or your own Google drive for a specific request to build knowledge on a topic question or issue.
 
 
 
