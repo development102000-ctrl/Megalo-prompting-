@@ -12,3 +12,6 @@ You can use the deep research function within notebookLM to search the web or yo
 
 
 I refer to this process is megalo-prompting, certainly more convoluted than meta prompting, it is however effective at getting a highly effective gem-based agent for a very specific conversation or task it can also be shaped to build applications and tools from a variety of technical sources.
+
+
+this can be utilized to improve your account settings and Gemini chat customization by starting this process with an intention of creating customized instructions for Gemini personal intelligence in the Gemini app with a motivation towards customization for whatever your needs are. this gives you significant personal leverage.
